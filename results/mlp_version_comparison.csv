@@ -1,0 +1,5 @@
+Version,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+MLP Original,0.8647,0.553,0.149,0.2347,0.826
+MLP v2 (Threshold) ✓,0.8017,0.3732,0.6227,0.4667,0.826
+MLP v3 (SMOTE + F1),0.755,0.3083,0.6098,0.4095,0.7723
+MLP v4 (Deep Arch),0.7985,0.374,0.622,0.467,0.8304

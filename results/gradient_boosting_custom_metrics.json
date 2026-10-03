@@ -1,0 +1,22 @@
+{
+  "accuracy": 0.7066974140649638,
+  "precision": 0.29786793624508384,
+  "recall": 0.8142594426368652,
+  "f1": 0.436176258856515,
+  "tn": 30099,
+  "fp": 13568,
+  "fn": 1313,
+  "tp": 5756,
+  "roc_auc": 0.8275601540294428,
+  "threshold": -0.5457615646252014,
+  "params": {
+    "num_leaves": 15,
+    "n_estimators": 500,
+    "min_child_samples": 20,
+    "learning_rate": 0.05,
+    "lambda_l2": 1,
+    "lambda_l1": 1,
+    "feature_fraction": 0.6,
+    "bagging_fraction": 0.8
+  }
+}
